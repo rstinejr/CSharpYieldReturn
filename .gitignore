@@ -1,0 +1,9 @@
+bin
+obj
+.vs
+*.dll
+*.o
+*.obj
+*.swp
+*.xproj.user
+project.lock.json
